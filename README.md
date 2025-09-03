@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Diego Navarro, from Santiago, Chile.
 - 👀 I’m interested in building things with the potential to change the world. I'm also a big fan of ⚽ 🎾 sports 
-- 📖 I’m currently learning about artificial intelligence models, specially computer vision models.
-- 📫 You can reach me at dnavarro1@uc.cl
+- 📫 You can reach me at dnavarrov97@gmail.com
