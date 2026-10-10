@@ -2,7 +2,7 @@
 
 Founder of Limber Labs and full-stack developer based in Santiago, Chile.
 
-I build custom business software and my own products. Much of my work lives in private client repositories, so this profile only shows a little part of what I do.
+I build custom business software and my own products. Much of my work lives in private repositories, so this profile only shows a little part of what I do.
 
 ## Selected work
 
